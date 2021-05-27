@@ -1,8 +1,7 @@
 {
-  "posts": [
-    { "id": 5, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "postals": [
+    { "id": 1, "zip": "1600023" , "address" : "東京都新宿区西新宿" , "created_at" : "2021-05-21 20:57:40", "updated_at" : "2021-05-21 20:57:40"},
+    { "id": 2, "zip": "1540016" , "address" : "東京都世田谷区弦巻" , "created_at" : "2021-05-21 20:57:40", "updated_at" : "2021-05-21 20:57:40"},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
